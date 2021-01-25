@@ -62,6 +62,37 @@
 		  </div>
 		</div>
 
+		<div class="card mt-3">
+		  <h5 class="card-header">Further Resources</h5>
+		  <div class="card-body">
+		    <h5 class="card-title">Addiontal resources you may fine useful</h5>
+		    <p class="card-text">
+		    	<ul>
+		    		<li>
+		    			<a href="https://docs.microsoft.com/en-us/learn/" target="_blank">
+		    				Microsoft Learning
+		    			</a>
+		    		</li>
+		    		<li>
+		    			<a href="https://github.com/MicrosoftLearning/Lab-Demo-Recordings/blob/master/AZ-104.md" target="_blank">
+		    				Microsoft Learning Lab-Demo-Recordings
+		    			</a>
+		    		</li>
+		    		<li>
+		    			<a href="https://www.pluralsight.com/paths/microsoft-azure-administrator-az-104" target="_blank">
+		    				Pluralsight (free trial)
+		    			</a>
+		    		</li>
+		    		<li>
+		    			<a href="https://cloudskills.io/courses/az-104" target="_blank">
+		    				Cloudskills ($7)
+		    			</a>
+		    		</li>
+		    	</ul>
+		    </p>
+		  </div>
+		</div>		
+
 	</div>
 
     <!-- Optional JavaScript; choose one of the two! -->
